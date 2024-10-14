@@ -32,6 +32,7 @@ If you're seeking a passionate, skilled, and committed Front-end Developer, allo
 ## 📫 How to Reach Me
 - Email: [maccudangkhoa@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/khoamac]
+- Facebook: [https://www.facebook.com/MacCuDangKhoa/]
 
 
 ## 📈 GitHub Stats
